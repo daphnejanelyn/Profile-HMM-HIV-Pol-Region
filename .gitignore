@@ -1,0 +1,7 @@
+*.fasta
+*.fastq
+*.domtblout
+*.tsv
+*.hmm
+*.txt
+.ipynb_checkpoints
