@@ -5,3 +5,5 @@
 *.hmm
 *.txt
 .ipynb_checkpoints
+*.csv
+*.sto
